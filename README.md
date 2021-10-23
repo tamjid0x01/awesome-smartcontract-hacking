@@ -113,3 +113,12 @@
   Type: Hack
   References:
     * [Personal data leak affects thousands of Vietnamese](https://e.vnexpress.net/news/news/personal-data-leak-affects-thousands-of-vietnamese-4279503.html) by Luu Quy, Phuong Son (Vnxpress)
+
+
+* Project: **BtcTurk Exchange**  
+  Date: 2018-07-??  
+  Summary: Exchange user database leaked and posted on Raidforums
+  Impact: 500K user PII leaked including usernames, hashed passwords, birthdates, emails, addresses, phone numbers  
+  References:  
+    * [Official announcement](https://pro.btcturk.com/kurumsal/duyuru-detay/kullanicilarimizin-dikkatine) by BtcTurk
+    * [Turkish crypto exchange acknowledges 2018 breach with 500,000 users’ data stolen](https://cointelegraph.com/news/turkish-crypto-exchange-acknowledges-2018-breach-with-500-000-users-data-stolen) by Erhan Kahraman (Cointelegraph)
