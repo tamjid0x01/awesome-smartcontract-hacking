@@ -38,7 +38,7 @@
   References:
     * [May 19th Market Volatility](https://medium.com/kava-labs/may-19th-market-volatility-e75377b63353) by Kava
 
-<<<<<<< patch-1
+
 
 
 * Project: **yCredit Finance**  
@@ -493,7 +493,6 @@
     * [Belt Finance Attack Event Analysis](https://medium.com/@Knownsec_Blockchain_Lab/knownsec-blockchain-lab-belt-finance-attack-event-analysis-b0ba64b100bd) by Knownsec Blockchain Lab
     * [Belt - REKT](https://rekt.news/belt-rekt/) by rekt
 
-=======
 * Project: **BuyUcoin Exchange**  
   Date: 2021-01-21  
   Summary: Report of a hack in mid-2020  
@@ -578,4 +577,4 @@
   References:  
     * [Official announcement](https://pro.btcturk.com/kurumsal/duyuru-detay/kullanicilarimizin-dikkatine) by BtcTurk
     * [Turkish crypto exchange acknowledges 2018 breach with 500,000 users’ data stolen](https://cointelegraph.com/news/turkish-crypto-exchange-acknowledges-2018-breach-with-500-000-users-data-stolen) by Erhan Kahraman (Cointelegraph)
->>>>>>> main
+
