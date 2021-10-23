@@ -37,3 +37,79 @@
   Impact: Many users liquidated   
   References:
     * [May 19th Market Volatility](https://medium.com/kava-labs/may-19th-market-volatility-e75377b63353) by Kava
+
+* Project: **BuyUcoin Exchange**  
+  Date: 2021-01-21  
+  Summary: Report of a hack in mid-2020  
+  Impact: 325K user PII leaked  
+  References:  
+    * [Data of BuyUcoin cryptocurrency exchange traders allegedly leaked online](https://www.zdnet.com/article/cyberattack-allegedly-leaks-data-of-indian-cryptocurrency-exchange-buyucoin-users/) by Charlie Osborne (ZDNet)
+
+* Project: **FlyingAtom Exchange**  
+  Date: 2021-01-22  
+  Summary: Offices robbed by an armed attacker  
+  Impact: 120K of gold stolen and two employees injured  
+  References:  
+    * [Data of BuyUcoin cryptocurrency exchange traders allegedly leaked online](https://www.zdnet.com/article/cyberattack-allegedly-leaks-data-of-indian-cryptocurrency-exchange-buyucoin-users/) by Charlie Osborne (ZDNet)
+
+* Project: **KeepChange Exchange**  
+  Date: 2021-02-07  
+  Summary: Internal infra compromised 
+  Impact: Customer PII stolen  
+  References:  
+    * [Data Breach at KeepChange](https://keepchange.medium.com/data-breach-at-keepchange-b0770a272945) by KeepChange
+    
+* Project: **Blockfolio**  
+  Date: 2021-02-08  
+  Summary: News/Signal feed hacked to display offensive content 
+  Impact: N/A  
+  References:  
+    * [Twitter announcement #1](https://twitter.com/blockfolio/status/1359039349807927297)
+    * [Twitter announcement #2](https://twitter.com/SBF_Alameda/status/1359051447506071552)
+
+* Project: **EXMO Exchange**  
+  Date: 2021-02-15  
+  Summary: Report of a DDoS attack 
+  Impact: Unknown  
+  References:  
+    * [Twitter announcement](https://twitter.com/Exmo_Com/status/1361301916618211330)
+
+* Project: **Cryptopia Exchange**  
+  Date: 2021-02-01  
+  Summary: Unauthorized transfer from a cold wallet  
+  Impact: $45K (XSN) stolen  
+  References:  
+    * [Twitter announcement](https://twitter.com/Exmo_Com/status/1361301916618211330)
+
+* Project: **Binance Exchange**  
+  Date: 2021-03-18  
+  Summary: Incorrect FileCoin API usage resulted in double credit  
+  Impact: Unknown  
+  References:  
+    * [Incident Report: Accurate Bookkeeping with Lotus APIs](https://filecoin.io/blog/posts/incident-report-accurate-bookkeeping-with-lotus-apis/) by FileCoin
+
+* Project: **Celsius Network**  
+  Date: 2021-04-14  
+  Summary: 3rd party emailer compromised  
+  Impact: customer PII stolen  
+  Type: Hack
+  References:
+    * [From the CEO: An update on Celsius security](https://mashinsky.medium.com/from-the-ceo-an-update-on-celsius-security-6f80b50012bd) by Celsius Network
+
+* Project: **Hotbit Exchange**  
+  Date: 2021-04-29  
+  Summary: Internal systems compromised  
+  Impact: customer PII stolen  
+  Type: Hack
+  References:
+    * [Hotbit Announcement](https://hotbit.zendesk.com/hc/en-us/articles/1500008915521-Hotbit-s-Announcement-on-Emergency-Maintenance) by Hotbit
+    * [Hotbit cryptocurrency exchange down after hackers targeted wallets](https://www.bleepingcomputer.com/news/security/hotbit-cryptocurrency-exchange-down-after-hackers-targeted-wallets/) by Sergiu Gatlan (Bleeping Computer)
+
+
+* Project: **Pi Network**  
+  Date: 2021-05-13  
+  Summary: Customer KYC database compromised and posted on Raidforums 
+  Impact: Cutstomer PII stolen including Vietnamese ID cards  
+  Type: Hack
+  References:
+    * [Personal data leak affects thousands of Vietnamese](https://e.vnexpress.net/news/news/personal-data-leak-affects-thousands-of-vietnamese-4279503.html) by Luu Quy, Phuong Son (Vnxpress)
