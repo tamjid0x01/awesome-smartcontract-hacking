@@ -134,7 +134,7 @@
     * [Replaying Ethereum Hacks - Furucombo](https://cmichel.io/replaying-ethereum-hacks-furucombo/) by Cmichel
     * [2021-2-27 Furucombo Attack](https://github.com/OriginProtocol/security/blob/master/incidents/2021-02-27-Furucombo.md) by Origin Protocol
 
-* Project: **Yield Finance**  
+* Project: **Yeld Finance**  
   Date: 2021-02-27  
   Summary: Whitehat hack, $166K DAI lost and later recovered.  
   Impact: N/A. 
